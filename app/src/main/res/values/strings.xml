@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SwapSelfie</string>
+    <string name="txtViewMain">Engineering Students</string>
+    <string name="btnSwap">Swap</string>
+</resources>
